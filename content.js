@@ -1,1 +1,0 @@
-text = window.getSelection().toString();
